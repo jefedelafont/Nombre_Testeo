@@ -8,7 +8,7 @@ package ed_ejercicios;
 
 /**
  *
- * @author vesprada
+ * @author tu puta madre
  */
 import java.util.Scanner;
 import java.io.*;
